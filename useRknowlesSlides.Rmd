@@ -1,0 +1,14 @@
+% Using R for Policy Research in a State Education Agency
+% Jared Knowles
+% June 13th, 2012
+
+# What is a State Education Agency?
+- The administrative agency for public education
+- Collects records on all students on a number of dimensions
+
+
+# What types of data are collected?
+
+# What questions does this pose?
+
+# What's the problem?
