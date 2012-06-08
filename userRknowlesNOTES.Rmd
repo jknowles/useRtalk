@@ -1,0 +1,45 @@
+% Using R for Policy Research in a State Education Agency
+% Jared Knowles
+% June 13th, 2012
+
+# What is a State Education Agency (SEA)?
+- The administrative agency for public education in charge of disbursing funds, monitoring programs, and collecting data on the state of public schools
+- Manages and coordinates financial outlays and state and federal programs for schools
+- Collects records on all students on a number of dimensions
+- Big entity, Wisconsin is a medium sized SEA
+
+Dollars Annually    Description
+----------------   --------------
+$5.7 billion       State and Federal school aids
+$101 million       Program administration (state and federal)
+$80.7 million      Aids to libraries, individuals, and organizations
+
+# Did you say data?
+<p align='center'> <img src="img/scantron.jpg" height="550" width="750"> </p>
+
+Attribute                   Description
+------------------  ---------------------------------------------------
+Demographics          Gender, race, economic status, English proficiency 
+Special Indicators    Homeless status, migrant status, etc.
+**Test scores**       NCLB tests for school accountability
+
+
+# What questions does this pose?
+- States and school districts have an abundance of data, but what does it mean?
+- Can we do data analysis fast (and accurate) enough to inform decisions that improve student learning and well-being?
+- Can we produce analyses that are approachable to policy makers and the public, that galvanize change?
+- Can tehse analyses provide results accurate enough to inform decisions timely enough to be used in making decisions?
+- Can we do these things in a time of reduced staffing, decreased budgets, and time constraints?
+
+
+# The Vision
+- States and districts have hundreds of attributes (very similar, but not identical) about millions of students in public K-12
+- Data is collected often from before school age well past high school graduation
+- Patterns can help inform policy choices 
+- Simulations can be built to understand the effects of decisions before the decisions are made
+
+# The Joys of Government Work
+- Financial constraint
+- Time constraint
+- Transparency is critical, your work will be reviewed and scrutinized
+-
